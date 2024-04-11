@@ -19,18 +19,10 @@ Determines whether the two rectangles overlap in any way.
 Employs the java.util.Scanner class to read user input from the console.
 Utilizes the java.awt.Rectangle class to create and manipulate rectangle objects.
 Leverages the contains() and intersects() methods of the Rectangle class to determine containment and intersection relationships.
-Compilation and Execution:
 
+#Compilation and Execution:
 Save the code as lab2.java.
-
-Compile using a Java compiler:
-Bash
-javac lab2.java
-
-
-Run the compiled class:
-Bash
-java lab2
+Run lab2.java in your IDE
 
 
 # Usage:
@@ -38,3 +30,6 @@ java lab2
 The program will prompt you to enter the upper-left x, y coordinates, width, and height of the first rectangle, separated by spaces.
 Enter the same information for the second rectangle.
 The program will then display statements indicating whether one rectangle contains the other, and whether the rectangles intersect.
+
+# My thoughts 
+I was trying to use arrays because them are usefull and I think you can make a lot of cool stuff useing them.
